@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/andTheowind">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=andTheowind&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <hr>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andTheowind&layout=compact&langs_count=16&theme=dark"/>
+  <hr>
+  <!-- 
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andTheowind&layout=compact&langs_count=16&theme=dark"/> 
+  -->
 </div>
