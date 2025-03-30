@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🤝 I'm looking for something to work with
+📫 How to reach me <a href="mailto:аnd.theowind@gmail.com">аnd.theowind@gmail.com</a>
+
+
 <!--
 **andTheowind/andTheowind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
